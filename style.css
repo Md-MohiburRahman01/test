@@ -1,0 +1,17 @@
+ul li:nth-child(2n+1){
+   color: #000;
+   background: purple;
+   font-size: 30px;
+}
+.mimi{
+    height: 200px;
+    width:300px;
+    background: blueviolet;
+    transition:.5S ;
+    margin:0  ;
+
+
+}
+.mimi:hover{
+    
+}
